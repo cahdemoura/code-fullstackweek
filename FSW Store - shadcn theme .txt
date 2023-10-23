@@ -1,4 +1,4 @@
-//nome: FSW Store - shadcn theme 
+//nome: gistfile1.txt 
 
 @tailwind base;
 @tailwind components;
